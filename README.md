@@ -4,9 +4,11 @@ A simple way to find and easily see issues in repositories.
 
 ## Getting Started
 
-### 1 - clone the project with ```git clone https://github.com/wevanyjohnny1/GithubExplorer.git```
-### 2 - open the folder then run ```yarn``` to install the dependencies
-### 3 - run ```yarn start``` to start the app.
+1 - clone the project with ```git clone https://github.com/wevanyjohnny1/GithubExplorer.git```
+
+2 - open the folder then run ```yarn``` to install the dependencies
+
+3 - run ```yarn start``` to start the app.
 
 ### See the app running:
 
